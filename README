@@ -1,0 +1,27 @@
+// ==UserScript==
+// @name           MyFitnessPal Percentages and Net Carbs
+// @version 1.1
+// @namespace      surye
+// @description    Adds display of Carb/Protein/Fat percentages to any daily food diary page. Also adds "Real Calories" calcalation based off 4/4/9 algorithm. Based on "MyFitnessPal Percentages", modified by Surye
+// @include http://www.myfitnesspal.com/food/diary/* 
+// @include https://www.myfitnesspal.com/food/diary/*
+// ==/UserScript==
+
+/* side note - 5/30/65 Carbs/Protein/Fat is a good ratio for fat loss */
+
+/*  
+ *  ------------------------------------------------------------
+ *  Based off of http://userscripts.org/scripts/show/104606
+ *  Much credit to Bompus, hope it's okay I used it!
+ *  ------------------------------------------------------------
+ */
+
+
+/*  
+ *  ------------------------------------------------------------
+ *  Based off of http://userscripts.org/scripts/show/124645
+ *  Much credit to Surye, I rewritten the code but base it on
+ *  these 2 exiting code so it works in Chrome V23 and up. 
+ *  I hope it's working ok!
+ *  ------------------------------------------------------------
+ */
