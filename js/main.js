@@ -91,7 +91,7 @@ function add_net_carb_column() {
 }
 
 function get_total_percentage() {
-	var all_bottoms = jQuery('.container tr.bottom, .total:not(.remaining)');
+	var all_bottoms = jQuery('tr.bottom, .total:not(.remaining)');
 
 	all_bottoms.each(function(ind, el) {
 		var tr_carbs = jQuery(this).find('td').eq(carbs_index);

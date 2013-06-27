@@ -1,6 +1,6 @@
 {
   "name": "MyFitnessPal Percentages and Net Carbs",
-  "description": "Adds display of Carb/Protein/Fat percentages to any daily food diary page. Also adds \"Real Calories\" calcalation based off 4/4/9 algorithm. Based on \"MyFitnessPal Percentages\", modified by Surye",
+  "description": "Adds display of Carb/Protein/Fat percentages to any daily food diary page. Also adds \"Real Calories\" calcalation based off 4/4/9 algorithm. Based on \"MyFitnessPal Percentages\", modified by Surye. Adapted by ubiquitous_tom",
   "version": "2.0",
   "permissions": [ "tabs", "storage", "contextMenus", "http://*/*", "https://*/*" ],
   "background": {
